@@ -1,5 +1,5 @@
 {
-    "name": "docker",
+    "name": "mirror",
     "compatibility_date": "2025-06-24",
     "main": "_worker.js"
 }
